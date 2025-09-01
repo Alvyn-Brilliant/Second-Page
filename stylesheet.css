@@ -1,0 +1,69 @@
+body {
+    background-image: url('/Volumes/Orico SSD 1TB/Index/images/space.jpg');
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.c1 {
+    color: rgb(227, 240, 189);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    position: relative;
+    text-shadow: 1px 1px 2px grey;
+}
+
+.c2 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.c3 {
+    text-align: center;
+    position: relative;
+    color: rgb(227, 240, 189);
+    text-shadow: 1px 1px 2px grey;
+}
+
+.c4 {
+    color: rgb(227, 240, 189);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    position: relative;
+    left: 5%;
+    text-shadow: 1px 1px 2px grey;
+}
+
+.a {
+    color: rgb(277, 240, 189);
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 2px grey;
+    text-align: center;
+    position: relative;
+    left: 49%;
+}
+
+.placeholder {
+    text-align: left;
+    color: aqua;
+}
+
+.i1 {
+    width: 100%;
+    height: auto;
+    max-width: 1080px;
+    position: relative;
+    left: 25%;
+    right: 20%;
+    padding: 5%;
+}
+
+.i2 {
+    width: 100%;
+    height: auto;
+    max-width: 1080px;
+    position: relative;
+    left: 25%;
+    right: 20%;
+    padding: 5%;
+}
