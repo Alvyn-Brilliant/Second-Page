@@ -1,8 +1,8 @@
 body {
     background-image: url('images/space.jpg');
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: auto;
 }
 
 .c1 {
@@ -16,6 +16,9 @@ body {
 .c2 {
     text-align: center;
     color: whitesmoke;
+    font-size: 200%;
+    padding-block: 10%;
+    text-justify: auto;
 }
 
 .c3 {
@@ -34,13 +37,19 @@ body {
     text-shadow: 1px 1px 2px grey;
 }
 
-.a {
+.l1 {
     color: rgb(277, 240, 189);
     font-family: 'Courier New', Courier, monospace;
-    text-shadow: 1px 1px 2px grey;
-    text-align: center;
-    position: relative;
-    left: 49%;
+    font-size: 200%;
+    padding-left: 5%;
+}
+
+.l2 {
+font-family: 'Courier New', Courier, monospace;
+color:rgb(277, 240, 189);
+font-size: 200%;
+border: 5rem;
+padding: 5rem;
 }
 
 .placeholder {
